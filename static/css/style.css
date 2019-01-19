@@ -18,7 +18,7 @@
 }
 
 * {
-    background-image: url("static/images/behind.jpg");
-    background-repeat: no-repeat;
+    background-image: url("behind.jpg");
     background-attachment: fixed;
+    color: white;
 }
