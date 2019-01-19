@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+#container {
+    width: 970px;
+    margin: auto;
+}
+
+.card {
+    vertical-align: top;
+    width: 140px;
+    height: 140px;
+    border: 2px solid blue;
+    margin: 5px;
+}
+
+* {
+    background-image: url("static/images/behind.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
