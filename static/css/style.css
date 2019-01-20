@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
     text-align: center;
+    background-image: url("twinkling-stars-in-the-night-sky_na1y5mute__F0009.png");
+    background-attachment: fixed;
+    color:white;
 }
 
 #container {
@@ -17,8 +20,7 @@
     margin: 5px;
 }
 
-* {
-    background-image: url("twinkling-stars-in-the-night-sky_na1y5mute__F0009.png");
-    background-attachment: fixed;
-    color: white;
+.gameInfo {
+    color: red;
+    font-size: 50px;
 }
