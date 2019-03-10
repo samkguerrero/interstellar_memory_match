@@ -4,3 +4,7 @@ Matching game built with basic html, css, and javascript
 - See it live @ https://samkguerrero.github.io/interstellar_memory_match/
 
 ![alt text] (https://github.com/samkguerrero/interstellar_memory_match/blob/master/static/images/screencap.png)
+
+![alt text](https://github.com/samkguerrero/interstellar_memory_match/blob/master/static/images/screencap.png)
+
+![Screenshot](https://github.com/samkguerrero/interstellar_memory_match/blob/master/static/images/screencap.png)
